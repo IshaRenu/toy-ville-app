@@ -28,7 +28,7 @@ const getStyles = makeStyles(theme => ({
   },
 }))
 
-const onInputChange = (e) {
+const onInputChange = (e) => {
     // show popup for message sent
 }
 
