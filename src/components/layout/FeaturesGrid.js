@@ -11,7 +11,7 @@ root: {
     flexDirection: row
     },
     paper: {
-    height: 140,
+    height: 150,
     width: 100,
   },
   control: {
